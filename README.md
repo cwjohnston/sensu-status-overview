@@ -1,4 +1,4 @@
-![Sensu logo](https://sensuapp.org/img/logo-horizontal.svg)
+![Sensu logo](img/logo-horizontal.png)
 # Sensu Core
 | Project | Build Status | Gem Version |
 | ---     | :---:        | :---:       |
